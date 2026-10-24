@@ -18,7 +18,7 @@ Every project, described by one real input and the output it produces.
 
 **[Try Partidito](https://www.partidito.com.ar)** or read its [model card](https://adiazgallici.vercel.app/projects/partidito).
 
-[![Inmobiliaria Passadore. Input: “depto de 2 dormitorios para alquilar, hasta 300 lucas”. Output: structured search filters for a two-bedroom apartment to rent, up to 300,000 pesos.](assets/passadore.jpg)](https://adiazgallici.vercel.app/projects/passadore)
+[![Inmobiliaria Passadore. Input: “depto en Nueva Córdoba hasta 300 lucas”. Output: structured search filters for an apartment in Nueva Córdoba up to 300,000 pesos.](assets/passadore.jpg)](https://adiazgallici.vercel.app/projects/passadore)
 
 **[Visit the agency](https://www.inmobiliariapassadore.com.ar)** or read the [model card](https://adiazgallici.vercel.app/projects/passadore).
 
