@@ -1,4 +1,4 @@
-[![Dots start as random noise and, over 50 sampling steps, settle into the words “Real problems. Useful software.” Agustín Diaz, Argentina. Sr. AI Software Engineer at Mercado Libre. Co-founder of Lessio & Co. 1,561 commits, 211 merged PRs.](assets/banner.gif)](https://adiazgallici.vercel.app)
+[![Dots start as random noise and, over 50 sampling steps, settle into the words “Real problems. Useful software.”, the way image AI turns noise into a picture. Agustín Diaz, Argentina. Sr. AI Software Engineer at Mercado Libre. Co-founder and CTO of Lessio & Co. 1,561 commits, 211 merged PRs.](assets/banner.gif)](https://adiazgallici.vercel.app)
 
 With Lessio & Co, I import products and sell them online, and I build the tools the business is missing. Some of them become products for other sellers. I’m also a Sr. AI Software Engineer at Mercado Libre.
 
