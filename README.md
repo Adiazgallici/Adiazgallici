@@ -1,6 +1,6 @@
-[![Dots start as random noise and, over 50 sampling steps, settle into the words “Real problems. Useful software.” Agustín Diaz, Córdoba, Argentina. Sr. AI Software Engineer at Mercado Libre. Co-founder of Lessio & Co. 1,561 commits, 211 merged PRs.](assets/banner.gif)](https://adiazgallici.vercel.app)
+[![Dots start as random noise and, over 50 sampling steps, settle into the words “Real problems. Useful software.” Agustín Diaz, Argentina. Sr. AI Software Engineer at Mercado Libre. Co-founder of Lessio & Co. 1,561 commits, 211 merged PRs.](assets/banner.gif)](https://adiazgallici.vercel.app)
 
-With Lessio & Co, I import products and sell them online, and I build the tools the business is missing. Some of them become products for other sellers. By day, I’m a Sr. AI Software Engineer at Mercado Libre.
+With Lessio & Co, I import products and sell them online, and I build the tools the business is missing. Some of them become products for other sellers. I’m also a Sr. AI Software Engineer at Mercado Libre.
 
 **[See the work](https://adiazgallici.vercel.app)** or read [what I’m building now](https://adiazgallici.vercel.app/now).
 
@@ -14,17 +14,17 @@ Every project, described by one real input and the output it produces.
 
 **[Try Vindue](https://vindue.com.ar)** or read its [model card](https://adiazgallici.vercel.app/projects/vindue).
 
-[![Partidito. Input: tonight’s players, their ratings and positions. Output: two balanced teams, then the result and the updated standings.](assets/partidito.jpg)](https://adiazgallici.vercel.app/projects/partidito)
+[![Partidito. Input: tonight’s players, their ratings and positions. Output: two balanced teams, then the result and the updated standings. Shown setting up a match with sixteen invented players.](assets/partidito.jpg)](https://adiazgallici.vercel.app/projects/partidito)
 
 **[Try Partidito](https://www.partidito.com.ar)** or read its [model card](https://adiazgallici.vercel.app/projects/partidito).
 
-[![Inmobiliaria Passadore. Input: “depto en Nueva Córdoba hasta 300 lucas”. Output: structured search filters for an apartment in Nueva Córdoba up to 300,000 pesos.](assets/passadore.jpg)](https://adiazgallici.vercel.app/projects/passadore)
+[![Inmobiliaria Passadore. Input: “depto de 2 dormitorios para alquilar, hasta 300 lucas”. Output: structured search filters for a two-bedroom apartment to rent, up to 300,000 pesos.](assets/passadore.jpg)](https://adiazgallici.vercel.app/projects/passadore)
 
 **[Visit the agency](https://www.inmobiliariapassadore.com.ar)** or read the [model card](https://adiazgallici.vercel.app/projects/passadore).
 
 [![Lessio & Co storefront. Input: a parent on a phone, looking for a gift. Output: a store we own, with categories, search, variants and a checkout.](assets/lessio-store.jpg)](https://adiazgallici.vercel.app/projects/lessio-store)
 
-**[See the store](https://lessioandco.vercel.app)** or read its [model card](https://adiazgallici.vercel.app/projects/lessio-store).
+**[See the store](https://lessioandco.com.ar)** or read its [model card](https://adiazgallici.vercel.app/projects/lessio-store).
 
 [![Lessio Stock. Input: a Mercado Libre order for one unit from the FULL warehouse. Output: FULL stock down by one, the sale costed, an audit entry and a restock check. Shown with invented demo data.](assets/lessio-stock.jpg)](https://adiazgallici.vercel.app/projects/lessio-stock)
 
@@ -55,4 +55,4 @@ Counted on October 24, 2026 from each repository’s default branch, including m
 
 Most of the source stays private. The products and screenshots are real.
 
-**Built in Córdoba, Argentina.** [adiazgallici.vercel.app](https://adiazgallici.vercel.app)
+**Made in Argentina.** [adiazgallici.vercel.app](https://adiazgallici.vercel.app)
