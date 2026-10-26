@@ -8,7 +8,7 @@ I import and sell products online with Lessio & Co, and I build the software the
 
 ## The system that runs Lessio & Co
 
-[![Lessio Stock, the system that runs Lessio & Co. Every imported product goes through five stops: Alibaba (27 China orders, paid across 6 cards), in transit (automatic tracking, 18 shipments), our warehouse (landed cost and COGS, 452 FIFO cost layers), Mercado Libre FULL (shipment forecast, 21 shipments) and the customer (7,170 orders synced). Every morning, sales velocity and lead time pick the next order, and 840 alerts have gone out since June 2026. Screenshot shown with invented demo data.](assets/lessio-system.jpg)](https://www.adiazgallici.dev/#lessio-stock)
+[![Lessio Stock, the system that runs Lessio & Co. Every imported product goes through five stops: China suppliers (27 orders, paid across 6 cards), in transit (automatic tracking, 18 shipments), our warehouse (landed cost and COGS, 452 FIFO cost layers), Mercado Libre FULL (shipment forecast, 21 shipments) and the customer (7,170 orders synced). Every morning, sales velocity and lead time pick the next order, and 840 alerts have gone out since June 2026. Screenshot shown with invented demo data.](assets/lessio-system.jpg)](https://www.adiazgallici.dev/#lessio-stock)
 
 **Lessio Stock** has run our business every day since January 2026, connected directly to the Mercado Libre API: from the order in China, paid by card and tracked automatically, to landed cost, FULL shipments and the customer. It’s private, so the screenshots use invented demo data. Read its [model card](https://www.adiazgallici.dev/projects/lessio-stock).
 
