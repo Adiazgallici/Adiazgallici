@@ -1,6 +1,6 @@
-[![Dots start as random noise and, over 50 sampling steps, settle into the words “Real problems. Useful software.”, the way image AI turns noise into a picture. Agustín Diaz, Argentina. Sr. AI Software Engineer at Mercado Libre. Co-founder and CTO of Lessio & Co. 6 projects in production, the first since November 2025.](assets/banner.gif)](https://www.adiazgallici.dev)
+[![Dots start as random noise and, over 50 sampling steps, settle into the words “Real problems. Useful software.”, the way image AI turns noise into a picture. Agustín Diaz, Argentina. Sr. AI Software Engineer at Mercado Libre. Co-founder & CTO, Lessio & Co. 6 projects in production since November 2025.](assets/banner.gif)](https://www.adiazgallici.dev)
 
-With Lessio & Co, I import products and sell them online, and I build the tools the business is missing. Some of them become products for other sellers. I’m also a Sr. AI Software Engineer at Mercado Libre.
+I import and sell products online with Lessio & Co, and I build the software the business needs. Some of it becomes products for other sellers. I’m also a Sr. AI Software Engineer at Mercado Libre.
 
 **[See the work](https://www.adiazgallici.dev)** or read [what I’m building now](https://www.adiazgallici.dev/now).
 
@@ -26,15 +26,15 @@ Every project, described by one real input and the output it produces.
 
 **[See the store](https://lessioandco.com.ar)** or read its [model card](https://www.adiazgallici.dev/projects/lessio-store).
 
-[![Lessio Stock. Input: a Mercado Libre order for one unit from the FULL warehouse. Output: FULL stock down by one, the sale costed, an audit entry and a restock check. 7,170 Mercado Libre orders synced. Shown with invented demo data.](assets/lessio-stock.jpg)](https://www.adiazgallici.dev/projects/lessio-stock)
+[![Lessio Stock. Input: a Mercado Libre order for one unit from the FULL warehouse. Output: FULL stock down by one, the sale’s cost recorded, an audit entry and a restock check. 7,170 Mercado Libre orders synced. Shown with invented demo data.](assets/lessio-stock.jpg)](https://www.adiazgallici.dev/projects/lessio-stock)
 
-**Lessio Stock** runs our business every day since January 2026, connected directly to the Mercado Libre API. It’s private, so the screenshots use invented demo data. Read its [model card](https://www.adiazgallici.dev/projects/lessio-stock).
+**Lessio Stock** has run our business every day since January 2026, connected directly to the Mercado Libre API. It’s private, so the screenshots use invented demo data. Read its [model card](https://www.adiazgallici.dev/projects/lessio-stock).
 
 [![isclaude-2x. Input: npx isclaude-2x. Output: a Claude Code statusline showing the model, context usage and the time until the next 2x window.](assets/isclaude-2x.jpg)](https://www.adiazgallici.dev/projects/isclaude-2x)
 
 **[See the source](https://github.com/Adiazgallici/isclaude-2x)** or the [npm package](https://www.npmjs.com/package/isclaude-2x): 553 downloads in the past year, 8 stars.
 
-Usage numbers counted on October 24, 2026. Partidito’s come from its public team directory.
+Usage numbers as of October 24, 2026. Partidito’s come from its public team directory.
 
 ---
 
