@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.vercel/
+.env*
+*.tsbuildinfo
+.DS_Store
+tools/profile-art/.venv/
+tools/profile-art/frames/
+tools/profile-art/out/
