@@ -8,7 +8,7 @@ I import and sell products online with Lessio & Co, and I build the software the
 
 ## The system that runs Lessio & Co
 
-[![Lessio Stock, the system that runs Lessio & Co. Every imported product goes through five stops: China suppliers (27 orders, paid across 6 cards), in transit (automatic tracking, 18 shipments), our warehouse (landed cost and COGS, 452 FIFO cost layers), Mercado Libre FULL (shipment forecast, 21 shipments) and the customer (7,170 orders synced). Every morning, sales velocity and lead time pick the next order, and 840 alerts have gone out since June 2026. Screenshot shown with invented demo data.](assets/lessio-system.jpg)](https://www.adiazgallici.dev/#lessio-stock)
+[![Lessio Stock, the system that runs Lessio & Co. Every imported product goes through five stops: China suppliers (27 orders, paid across 6 cards), in transit (automatic tracking, 18 shipments), our warehouse (landed cost and COGS, 508 FIFO cost layers), Mercado Libre FULL (shipment forecast, 26 shipments) and the customer (7,379 orders synced). Every morning, sales velocity and lead time pick the next order, and 858 alerts have gone out since June 2026. Screenshot shown with invented demo data.](assets/lessio-system.jpg)](https://www.adiazgallici.dev/#lessio-stock)
 
 **Lessio Stock** has run our business every day since January 2026, connected directly to the Mercado Libre API: from the order in China, paid by card and tracked automatically, to landed cost, FULL shipments and the customer. It’s private, so the screenshots use invented demo data. Read its [model card](https://www.adiazgallici.dev/projects/lessio-stock).
 
@@ -20,7 +20,7 @@ The other projects, each described by one real input and the output it produces.
 
 **[Try Vindue](https://vindue.com.ar)** or read its [model card](https://www.adiazgallici.dev/projects/vindue).
 
-[![Partidito. Input: tonight’s players, their ratings and positions. Output: two balanced teams, then the result and the updated standings. 57 teams, 505 players and 97 matches so far. Shown setting up a match with sixteen invented players.](assets/partidito.jpg)](https://www.adiazgallici.dev/projects/partidito)
+[![Partidito. Input: tonight’s players, their ratings and positions. Output: two balanced teams, then the result and the updated standings. 57 teams, 505 players and 99 matches so far. Shown setting up a match with sixteen invented players.](assets/partidito.jpg)](https://www.adiazgallici.dev/projects/partidito)
 
 **[Try Partidito](https://www.partidito.com.ar)** or read its [model card](https://www.adiazgallici.dev/projects/partidito).
 
@@ -34,9 +34,9 @@ The other projects, each described by one real input and the output it produces.
 
 [![isclaude-2x. Input: npx isclaude-2x. Output: a Claude Code statusline showing the model, context usage and the time until the next 2x window.](assets/isclaude-2x.jpg)](https://www.adiazgallici.dev/projects/isclaude-2x)
 
-**[See the source](https://github.com/Adiazgallici/isclaude-2x)** or the [npm package](https://www.npmjs.com/package/isclaude-2x): 553 downloads in the past year, 8 stars.
+**[See the source](https://github.com/Adiazgallici/isclaude-2x)** or the [npm package](https://www.npmjs.com/package/isclaude-2x): 574 downloads in the past year, 8 stars.
 
-Usage numbers as of October 24, 2026. Partidito’s come from its public team directory.
+Usage numbers as of November 3, 2026. Partidito’s come from its public team directory.
 
 ---
 
